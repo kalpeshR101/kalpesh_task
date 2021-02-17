@@ -1,0 +1,12 @@
+{
+  "name": "kalpesh",
+  "version": "1.0.0",
+  "description": "",
+  "main": " node .",
+  "scripts": {
+    "start": "node ."
+     
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -202,7 +202,11 @@ console.log(allproduct)
 
 
 //for all products  list
-console.log(array);
+const list = array.findIndex(function(todo,index)
+{
+    return todo.itemname ===itemname;
+});
+console.log(list)
 
 </script>
 </body>
